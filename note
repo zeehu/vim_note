@@ -1,0 +1,17 @@
+gvim setting for python
+
+
+set guifont=Consolas:h14:cANSI
+set nu
+syn on
+set ai
+set showmatch
+set expandtab
+set shiftwidth=4
+colorscheme evening
+colorscheme torte
+set hls
+set autoread
+set cursorline
+set bs=2
+filetype plugin indent on
